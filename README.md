@@ -4,13 +4,16 @@ I have created a working model that is trained to recommend movies based on a mo
 Here's how it looks
 <h2> First, select a movie you like </h2>
 
-![WhatsApp Image 2025-02-13 at 19 07 26_208eb93d](https://github.com/user-attachments/assets/cbebb805-239d-435d-9c37-a8be2e5d0075)
+![WhatsApp Image 2025-02-13 at 19 24 21_327ae0eb](https://github.com/user-attachments/assets/7fb3355c-0103-4a7b-9e14-f743ca94bc28)
+
 
  <h2>Movie Recommendations</h2>
- 
- ![WhatsApp Image 2025-02-13 at 19 16 00_94f14c45](https://github.com/user-attachments/assets/18262bd5-4a27-4b4c-811d-6cda43785a8c)
+
+![WhatsApp Image 2025-02-13 at 19 24 37_4d333a6b](https://github.com/user-attachments/assets/2ef9bd5d-a1f7-4c4e-b676-b8e75692868c)
+
  
 <br>
 
-![WhatsApp Image 2025-02-13 at 19 16 31_53449e04](https://github.com/user-attachments/assets/7da384da-22dd-4bc4-9e2c-96cf3659d545)
+![WhatsApp Image 2025-02-13 at 19 24 52_25a36af5](https://github.com/user-attachments/assets/c96d47ae-7c05-47b8-a8fe-1f3f44f5d73a)
+
 
